@@ -1,2 +1,3 @@
-# Coding-Solutions
-Auto-synced DSA solutions using Syncode
+| # | Problem | Platform | Difficulty | Date Solved | Time |
+|---|---------|----------|------------|-------------|------|
+| 1 | [Right Angle Triangle Pattern](./GeeksForGeeks/Easy/Right%20Angle%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1?page=1&category=Java&sortBy=submissions) | Easy | 13 Aug 2026 | 09:19 pm |
