@@ -1,11 +1,11 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 10
@@ -22,19 +22,21 @@
     "GeeksForGeeks_Last_Digit_of_Number": true,
     "GeeksForGeeks_Bitwise_Operators": true,
     "GeeksForGeeks_The_If_Statement": true,
-    "GeeksForGeeks_Convert_String_to_Lower_Case": true
+    "GeeksForGeeks_Convert_String_to_Lower_Case": true,
+    "GeeksForGeeks_Type_Conversion": true
   },
   "activityHistory": {
     "2026-08-13": 1,
     "2026-08-14": 5,
     "2026-08-18": 1,
-    "2026-08-19": 5
+    "2026-08-19": 6
   },
   "todayProblems": [
     "Even Positioned Characters",
     "Last Digit of Number",
     "Bitwise Operators",
     "The If Statement",
-    "Convert String to Lower Case"
+    "Convert String to Lower Case",
+    "Type Conversion"
   ]
 }
