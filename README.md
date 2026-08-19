@@ -8,3 +8,4 @@
 | 6 | [Switch Statement](./GeeksForGeeks/Basic/Switch%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/switch-statement/1?page=1&category=Java&sortBy=submissions) | Basic | 14 Aug 2026 | 08:51 pm |
 | 7 | [Array Traversal](./GeeksForGeeks/Basic/Array%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&category=Java&sortBy=submissions) | Basic | 18 Aug 2026 | 09:48 pm |
 | 8 | [Even Positioned Characters](./GeeksForGeeks/Basic/Even%20Positioned%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/for-loop-2/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:07 pm |
+| 9 | [Last Digit of Number](./GeeksForGeeks/Basic/Last%20Digit%20of%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:25 pm |
