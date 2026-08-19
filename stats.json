@@ -1,14 +1,14 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -24,13 +24,14 @@
     "GeeksForGeeks_The_If_Statement": true,
     "GeeksForGeeks_Convert_String_to_Lower_Case": true,
     "GeeksForGeeks_Type_Conversion": true,
-    "GeeksForGeeks_Function_With_Return": true
+    "GeeksForGeeks_Function_With_Return": true,
+    "GeeksForGeeks_Print_Square": true
   },
   "activityHistory": {
     "2026-08-13": 1,
     "2026-08-14": 5,
     "2026-08-18": 1,
-    "2026-08-19": 7
+    "2026-08-19": 8
   },
   "todayProblems": [
     "Even Positioned Characters",
@@ -39,6 +40,7 @@
     "The If Statement",
     "Convert String to Lower Case",
     "Type Conversion",
-    "Function With Return"
+    "Function With Return",
+    "Print Square"
   ]
 }
