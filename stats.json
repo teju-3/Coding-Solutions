@@ -1,14 +1,14 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -21,18 +21,20 @@
     "GeeksForGeeks_Even_Positioned_Characters": true,
     "GeeksForGeeks_Last_Digit_of_Number": true,
     "GeeksForGeeks_Bitwise_Operators": true,
-    "GeeksForGeeks_The_If_Statement": true
+    "GeeksForGeeks_The_If_Statement": true,
+    "GeeksForGeeks_Convert_String_to_Lower_Case": true
   },
   "activityHistory": {
     "2026-08-13": 1,
     "2026-08-14": 5,
     "2026-08-18": 1,
-    "2026-08-19": 4
+    "2026-08-19": 5
   },
   "todayProblems": [
     "Even Positioned Characters",
     "Last Digit of Number",
     "Bitwise Operators",
-    "The If Statement"
+    "The If Statement",
+    "Convert String to Lower Case"
   ]
 }

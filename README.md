@@ -11,3 +11,4 @@
 | 9 | [Last Digit of Number](./GeeksForGeeks/Basic/Last%20Digit%20of%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:25 pm |
 | 10 | [Bitwise Operators](./GeeksForGeeks/Basic/Bitwise%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:31 pm |
 | 11 | [The If Statement](./GeeksForGeeks/Basic/The%20If%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-if-statement--113256/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:33 pm |
+| 12 | [Convert String to Lower Case](./GeeksForGeeks/Basic/Convert%20String%20to%20Lower%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:36 pm |
