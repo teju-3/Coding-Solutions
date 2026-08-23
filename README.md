@@ -15,3 +15,4 @@
 | 13 | [Type Conversion](./GeeksForGeeks/Easy/Type%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/type-conversion--151956/1?page=1&category=Java&sortBy=submissions) | Easy | 19 Aug 2026 | 08:39 pm |
 | 14 | [Function With Return](./GeeksForGeeks/Basic/Function%20With%20Return) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/function-with-return-value/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:40 pm |
 | 15 | [Print Square](./GeeksForGeeks/Basic/Print%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-square--105330/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:49 pm |
+| 16 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 23 Aug 2026 | 10:26 pm |
