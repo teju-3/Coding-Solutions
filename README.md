@@ -17,3 +17,4 @@
 | 15 | [Print Square](./GeeksForGeeks/Basic/Print%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-square--105330/1?page=1&category=Java&sortBy=submissions) | Basic | 19 Aug 2026 | 08:49 pm |
 | 16 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 23 Aug 2026 | 10:26 pm |
 | 17 | [1 to n Without Loops](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loops) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 26 Aug 2026 | 10:55 pm |
+| 18 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 28 Aug 2026 | 12:08 am |
