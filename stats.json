@@ -1,11 +1,11 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 16
@@ -29,7 +29,8 @@
     "GeeksForGeeks_Factorial": true,
     "GeeksForGeeks_1_to_n_Without_Loops": true,
     "GeeksForGeeks_Arithmetic_Operators": true,
-    "GeeksForGeeks_Start_Coding": true
+    "GeeksForGeeks_Start_Coding": true,
+    "GeeksForGeeks_Multiplication_Table": true
   },
   "activityHistory": {
     "2026-08-13": 1,
@@ -39,9 +40,10 @@
     "2026-08-23": 1,
     "2026-08-26": 1,
     "2026-08-28": 1,
-    "2026-08-31": 1
+    "2026-08-31": 2
   },
   "todayProblems": [
-    "Start Coding"
+    "Start Coding",
+    "Multiplication Table"
   ]
 }
