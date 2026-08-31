@@ -22,3 +22,4 @@
 | 20 | [Multiplication Table](./GeeksForGeeks/Easy/Multiplication%20Table) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiplication-table/1) | Easy | 31 Aug 2026 | 11:07 pm |
 | 21 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1) | Basic | 31 Aug 2026 | 11:10 pm |
 | 22 | [Sum of Natural Numbers](./GeeksForGeeks/Easy/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Easy | 31 Aug 2026 | 11:12 pm |
+| 23 | [Odd or Even](./GeeksForGeeks/Basic/Odd%20or%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | Basic | 31 Aug 2026 | 11:13 pm |
