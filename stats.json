@@ -1,14 +1,14 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 5,
     "medium": 0,
     "hard": 0,
-    "basic": 18
+    "basic": 19
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -33,7 +33,8 @@
     "GeeksForGeeks_Multiplication_Table": true,
     "GeeksForGeeks_The_Else_if_Statement": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
-    "GeeksForGeeks_Odd_or_Even": true
+    "GeeksForGeeks_Odd_or_Even": true,
+    "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true
   },
   "activityHistory": {
     "2026-08-13": 1,
@@ -43,13 +44,14 @@
     "2026-08-23": 1,
     "2026-08-26": 1,
     "2026-08-28": 1,
-    "2026-08-31": 5
+    "2026-08-31": 6
   },
   "todayProblems": [
     "Start Coding",
     "Multiplication Table",
     "The Else if Statement",
     "Sum of Natural Numbers",
-    "Odd or Even"
+    "Odd or Even",
+    "Closest to n and Divisible by m"
   ]
 }
