@@ -1,14 +1,14 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 4,
     "medium": 0,
     "hard": 0,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -30,7 +30,8 @@
     "GeeksForGeeks_1_to_n_Without_Loops": true,
     "GeeksForGeeks_Arithmetic_Operators": true,
     "GeeksForGeeks_Start_Coding": true,
-    "GeeksForGeeks_Multiplication_Table": true
+    "GeeksForGeeks_Multiplication_Table": true,
+    "GeeksForGeeks_The_Else_if_Statement": true
   },
   "activityHistory": {
     "2026-08-13": 1,
@@ -40,10 +41,11 @@
     "2026-08-23": 1,
     "2026-08-26": 1,
     "2026-08-28": 1,
-    "2026-08-31": 2
+    "2026-08-31": 3
   },
   "todayProblems": [
     "Start Coding",
-    "Multiplication Table"
+    "Multiplication Table",
+    "The Else if Statement"
   ]
 }
