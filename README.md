@@ -24,3 +24,4 @@
 | 22 | [Sum of Natural Numbers](./GeeksForGeeks/Easy/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Easy | 31 Aug 2026 | 11:12 pm |
 | 23 | [Odd or Even](./GeeksForGeeks/Basic/Odd%20or%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | Basic | 31 Aug 2026 | 11:13 pm |
 | 24 | [Closest to n and Divisible by m](./GeeksForGeeks/Basic/Closest%20to%20n%20and%20Divisible%20by%20m) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-number5728/1#expected-approach-by-finding-quotient-o1-time-and-o1-space) | Basic | 31 Aug 2026 | 11:20 pm |
+| 25 | [Floyd's triangle](./GeeksForGeeks/Basic/Floyd's%20triangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floyds-triangle1222/1) | Basic | 16 Sept 2026 | 08:18 pm |

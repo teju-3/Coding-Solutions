@@ -1,14 +1,14 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-08-31",
-  "todayCount": 6,
+  "lastSyncDate": "2026-09-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
     "medium": 0,
     "hard": 0,
-    "basic": 19
+    "basic": 20
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -34,7 +34,8 @@
     "GeeksForGeeks_The_Else_if_Statement": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Odd_or_Even": true,
-    "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true
+    "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true,
+    "GeeksForGeeks_Floyd's_triangle": true
   },
   "activityHistory": {
     "2026-08-13": 1,
@@ -44,14 +45,10 @@
     "2026-08-23": 1,
     "2026-08-26": 1,
     "2026-08-28": 1,
-    "2026-08-31": 6
+    "2026-08-31": 6,
+    "2026-09-16": 1
   },
   "todayProblems": [
-    "Start Coding",
-    "Multiplication Table",
-    "The Else if Statement",
-    "Sum of Natural Numbers",
-    "Odd or Even",
-    "Closest to n and Divisible by m"
+    "Floyd's triangle"
   ]
 }
