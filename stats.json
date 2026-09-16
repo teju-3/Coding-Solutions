@@ -1,14 +1,14 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
     "medium": 0,
     "hard": 0,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "GeeksForGeeks_Right_Angle_Triangle_Pattern": true,
@@ -35,7 +35,8 @@
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Odd_or_Even": true,
     "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true,
-    "GeeksForGeeks_Floyd's_triangle": true
+    "GeeksForGeeks_Floyd's_triangle": true,
+    "GeeksForGeeks_Solid_Rectangle": true
   },
   "activityHistory": {
     "2026-08-13": 1,
@@ -46,9 +47,10 @@
     "2026-08-26": 1,
     "2026-08-28": 1,
     "2026-08-31": 6,
-    "2026-09-16": 1
+    "2026-09-16": 2
   },
   "todayProblems": [
-    "Floyd's triangle"
+    "Floyd's triangle",
+    "Solid Rectangle"
   ]
 }
